@@ -1,1 +1,3 @@
 # odin-recipes
+01/02/22: it is currently 19:37:51 i am setting up my readme.md file for my odin-recipes project. it will be used to create a crude webpage that will consist of a web index page which will contain links to several recipes. this project will be used to build my html skills and in the future i will return to this project when it has been completed to style it up using css. i will attempt to update this file as often as possible throughtout this project to create a timeline of events that can track my progress of what i did and when i did it when looking back.
+19:55 i have begun the assignment after an overview of git basics and completing iteration 1: initial structure i will be reuming iteration 2: recipe tomorrow. for now i will leave it there.
